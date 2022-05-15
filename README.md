@@ -14,7 +14,9 @@ Highscore will be saved in browser storage.
 ## Website
 https://btking1.github.io/code-quiz/
 
-![ScreenShot](https://github.com/btking1/Password-generator-/blob/main/pass-gen-screenshoot.png)
+![ScreenShot](https://github.com/btking1/code-quiz.io/blob/main/codequiz1.png)
+
+![ScreenShot](https://github.com/btking1/code-quiz.io/blob/main/codequiz3.png)
 
 ## Contribution
 Made with ❤️ by Booker King
