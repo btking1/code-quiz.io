@@ -1,6 +1,6 @@
 # Code Quiz
 
-##Purpose
+## Purpose
 A website that tests your coding knowledge by offer a quiz on the following
 subjects: CSS, HTML, & JavaScript.
 
